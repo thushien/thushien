@@ -1,5 +1,6 @@
-Hi there, I'm Thushan! 👋
-I am a PhD Candidate and Graduate Teaching Assistant at the School of Engineering and Computation, Laurentian University, Canada. My work sits at the intersection of advanced computing and engineering, where I focus on solving complex problems through data and technology.
+Hi there, I'm Thushan! 
+
+👋I am a PhD Candidate and Graduate Teaching Assistant at the School of Engineering and Computation, Laurentian University, Canada. My work sits at the intersection of advanced computing and engineering, where I focus on solving complex problems through data and technology.
 
 🎓 Academic & Professional Background
 Current Research: Pursuing a PhD at Laurentian University.
